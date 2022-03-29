@@ -1,0 +1,9 @@
+* TODO Basics [25%]
+:LOGBOOK:
+Hello World:
+CLOCK: [2022-03-30 Wed 00:53]--[2022-03-30 Wed 00:54] =>  0:00
+:END:
+- [ ] Lasagna
+- [ ] Meetup
+- [ ] Microwave
+- [X] Hello World
