@@ -15,7 +15,7 @@ class Attendee
 
   # rubocop:disable Naming/PredicateName
   def has_pass?
-    raise 'Please implement the Attendee#haspass? method'
+    @pass_id != nil
   end
   # rubocop:enable Naming/PredicateName
 
