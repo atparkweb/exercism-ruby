@@ -24,6 +24,6 @@ class Attendee
   end
 
   def allowed_to_ride?(ride_minimum_height)
-    raise 'Please implement the Attendee#allowed_to_ride? method'
+    fits_ride?(ride_minimum_height) and has_pass?
   end
 end
