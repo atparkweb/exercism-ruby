@@ -1,5 +1,7 @@
-* TODO Basics [50%]
+* TODO Basics [60%]
 :LOGBOOK:
+Amusement Park
+CLOCK: [2022-03-30 Wed 23:45]--[2022-03-31 Thu 00:04] =>  0:19
 Lasagna
 CLOCK: [2022-03-30 Wed 23:21]--[2022-03-30 Wed 23:42] =>  0:21
 CLOCK: [2022-03-30 Wed 23:11]--[2022-03-30 Wed 23:15] =>  0:04
@@ -8,5 +10,6 @@ CLOCK: [2022-03-30 Wed 00:53]--[2022-03-30 Wed 00:54] =>  0:01
 :END:
 - [ ] Meetup
 - [ ] Microwave
+- [X] Amusement Park
 - [X] Lasagna
 - [X] Hello World
