@@ -20,7 +20,7 @@ class Attendee
   # rubocop:enable Naming/PredicateName
 
   def fits_ride?(ride_minimum_height)
-    raise 'Please implement the Attendee#fits_ride? method'
+    @height >= ride_minimum_height
   end
 
   def allowed_to_ride?(ride_minimum_height)
