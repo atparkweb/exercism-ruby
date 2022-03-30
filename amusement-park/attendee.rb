@@ -8,11 +8,11 @@ class Attendee
   end
 
   def pass_id
-    raise 'Implement the Attendee#pass_id method'
+    @pass_id
   end
 
   def issue_pass!(pass_id)
-    raise 'Implement the Attendee#issue_pass! method'
+    @pass_id = pass_id
   end
 
   def revoke_pass!
