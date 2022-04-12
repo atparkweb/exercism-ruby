@@ -1,0 +1,22 @@
+* Timesheet
+
+** Worked on hello-world, lasagna, amusement-park, and amusement-park-improvements
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-03-31 Thu 18:35]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:53* |
+|--------------+--------|
+| Basics [66%] | 0:53   |
+#+END:
+
+** Worked on Log Line Parser
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-04-13 Wed 01:12]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *1:09* |
+|--------------+--------|
+| Basics [71%] | 1:09   |
+#+END:
+
