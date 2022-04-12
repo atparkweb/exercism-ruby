@@ -12,6 +12,6 @@ class LogLineParser
   end
 
   def reformat
-    "#{self.message} (#{self.log_level})"
+    "#{message} (#{log_level})"
   end
 end
