@@ -12,6 +12,6 @@ class LogLineParser
   end
 
   def reformat
-    raise 'Please implement the LogLineParser#reformat method'
+    "#{self.message} (#{self.log_level})"
   end
 end
