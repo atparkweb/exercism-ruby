@@ -1,6 +1,8 @@
 #+STARTUP:overview
-* TODO Basics [66%]
+* TODO Basics [57%]
 :LOGBOOK:
+Log Line Parser
+CLOCK: [2022-04-13 Wed 00:55]
 Amusement Park Improvements
 CLOCK: [2022-03-31 Thu 00:11]--[2022-03-31 Thu 00:19] =>  0:08
 Amusement Park
@@ -17,3 +19,4 @@ CLOCK: [2022-03-30 Wed 00:53]--[2022-03-30 Wed 00:54] =>  0:01
 - [X] Amusement Park
 - [X] Lasagna
 - [X] Hello World
+- [ ] Log Line Parser
