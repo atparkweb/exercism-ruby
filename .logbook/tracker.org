@@ -1,8 +1,8 @@
 #+STARTUP:overview
-* TODO Basics [62%]
+* TODO Basics [75%]
 - [X] Amusement Park Improvements
 - [X] Amusement Park
-- [ ] Assembly Line
+- [X] Assembly Line
 - [X] Hello World
 - [X] Lasagna
 - [X] Log Line Parser
