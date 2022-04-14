@@ -1,9 +1,10 @@
 #+STARTUP:overview
-* TODO Basics [71%]
-- [ ] Meetup
-- [ ] Microwave
+* TODO Basics [62%]
 - [X] Amusement Park Improvements
 - [X] Amusement Park
-- [X] Lasagna
+- [ ] Assembly Line
 - [X] Hello World
+- [X] Lasagna
 - [X] Log Line Parser
+- [ ] Meetup
+- [ ] Microwave
