@@ -1,6 +1,6 @@
 * Timesheet
 
-** Worked on hello-world, lasagna, amusement-park, and amusement-park-improvements
+** hello-world, lasagna, amusement-park, and amusement-park-improvements
 :LOGBOOK:
 Amusement Park Improvements
 CLOCK: [2022-03-31 Thu 00:11]--[2022-03-31 Thu 00:19] =>  0:08
@@ -21,8 +21,7 @@ CLOCK: [2022-03-30 Wed 00:53]--[2022-03-30 Wed 00:54] =>  0:01
 | Basics [66%] | 0:53   |
 #+END:
 
-
-** Worked on Log Line Parser
+** log-line-parser
 :LOGBOOK:
 Log Line Parser
 CLOCK: [2022-04-13 Wed 00:55]--[2022-04-13 Wed 01:11] =>  0:16
@@ -35,4 +34,6 @@ CLOCK: [2022-04-13 Wed 00:55]--[2022-04-13 Wed 01:11] =>  0:16
 |--------------+--------|
 | Basics [71%] | 0:16   |
 #+END:
+
+** assembly-line
 
