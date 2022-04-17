@@ -1,10 +1,11 @@
-#+STARTUP:overview
-* TODO Basics [75%]
+* TODO Syllabus [70%]
 - [X] Amusement Park Improvements
 - [X] Amusement Park
 - [X] Assembly Line
 - [X] Hello World
 - [X] Lasagna
 - [X] Log Line Parser
-- [ ] Meetup
-- [ ] Microwave
+- [X] Two Fer
+- [ ] Savings Account
+- [ ] Bird Count
+- [ ] Simple Calulator

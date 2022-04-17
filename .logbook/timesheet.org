@@ -1,52 +1,32 @@
-* Timesheet
+#+STARTUP:overview
 
-** hello-world
+* two-fer
 :LOGBOOK:
-Hello World
-CLOCK: [2022-03-30 Wed 00:53]--[2022-03-30 Wed 00:54] =>  0:01
+CLOCK: [2022-04-18 Mon 00:56]--[2022-04-18 Mon 01:11] =>  0:15
 :END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2022-03-30 Wed 00:54]
-| Headline        | Time   |
-|-----------------+--------|
-| *Total time*    | *0:01* |
-#+END:
-
-** lasagna
-:LOGBOOK:
-CLOCK: [2022-03-30 Wed 23:21]--[2022-03-30 Wed 23:42] =>  0:21
-CLOCK: [2022-03-30 Wed 23:11]--[2022-03-30 Wed 23:15] =>  0:04
-:END:
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2022-03-30 Wed 23:44]
+#+CAPTION: Clock summary at [2022-04-18 Mon 01:11]
 | Headline     | Time   |
 |--------------+--------|
-| *Total time* | *0:25* |
+| *Total time* | *0:15* |
+|--------------+--------|
+| two-fer      | 0:15   |
 #+END:
 
-** amusement-park
+* assembly-line
 :LOGBOOK:
-CLOCK: [2022-03-30 Wed 23:45]--[2022-03-31 Thu 00:04] =>  0:19
+CLOCK: [2022-04-14 Thu 20:59]--[2022-04-14 Thu 21:04] =>  0:05
+CLOCK: [2022-04-14 Thu 20:23]--[2022-04-14 Thu 20:30] =>  0:07
+CLOCK: [2022-04-14 Thu 20:08]--[2022-04-14 Thu 20:14] =>  0:06
 :END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2022-03-31 Thu 00:05]
-| Headline           | Time   |
-|--------------------+--------|
-| *Total time*       | *0:19* |
+#+CAPTION: Clock summary at [2022-04-14 Thu 21:04]
+| Headline          | Time   |
+|-------------------+--------|
+| *Total time*      | *0:18* |
 #+END:
 
-** amusement-park-improvements
-:LOGBOOK:
-CLOCK: [2022-03-31 Thu 00:11]--[2022-03-31 Thu 00:19] =>  0:08
-:END:
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2022-03-31 Thu 00:20]
-| Headline                        | Time   |
-|---------------------------------+--------|
-| *Total time*                    | *0:08* |
-#+END:
-
-** log-line-parser
+* log-line-parser
 :LOGBOOK:
 Log Line Parser
 CLOCK: [2022-04-13 Wed 00:55]--[2022-04-13 Wed 01:11] =>  0:16
@@ -58,15 +38,48 @@ CLOCK: [2022-04-13 Wed 00:55]--[2022-04-13 Wed 01:11] =>  0:16
 | *Total time*        | *0:16* |
 #+END:
 
-** assembly-line
+* amusement-park-improvements
 :LOGBOOK:
-CLOCK: [2022-04-14 Thu 20:59]--[2022-04-14 Thu 21:04] =>  0:05
-CLOCK: [2022-04-14 Thu 20:23]--[2022-04-14 Thu 20:30] =>  0:07
-CLOCK: [2022-04-14 Thu 20:08]--[2022-04-14 Thu 20:14] =>  0:06
+CLOCK: [2022-03-31 Thu 00:11]--[2022-03-31 Thu 00:19] =>  0:08
 :END:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2022-04-14 Thu 21:04]
-| Headline          | Time   |
-|-------------------+--------|
-| *Total time*      | *0:18* |
+#+CAPTION: Clock summary at [2022-03-31 Thu 00:20]
+| Headline                        | Time   |
+|---------------------------------+--------|
+| *Total time*                    | *0:08* |
+#+END:
+
+* amusement-park
+:LOGBOOK:
+CLOCK: [2022-03-30 Wed 23:45]--[2022-03-31 Thu 00:04] =>  0:19
+:END:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-03-31 Thu 00:05]
+| Headline           | Time   |
+|--------------------+--------|
+| *Total time*       | *0:19* |
+#+END:
+
+* lasagna
+:LOGBOOK:
+CLOCK: [2022-03-30 Wed 23:21]--[2022-03-30 Wed 23:42] =>  0:21
+CLOCK: [2022-03-30 Wed 23:11]--[2022-03-30 Wed 23:15] =>  0:04
+:END:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-03-30 Wed 23:44]
+| Headline     | Time   |
+|--------------+--------|
+| *Total time* | *0:25* |
+#+END:
+
+* hello-world
+:LOGBOOK:
+Hello World
+CLOCK: [2022-03-30 Wed 00:53]--[2022-03-30 Wed 00:54] =>  0:01
+:END:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-03-30 Wed 00:54]
+| Headline        | Time   |
+|-----------------+--------|
+| *Total time*    | *0:01* |
 #+END:
