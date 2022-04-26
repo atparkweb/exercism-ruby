@@ -1,4 +1,4 @@
-* TODO Syllabus [70%]
+* TODO Syllabus [80%]
 - [X] Amusement Park Improvements
 - [X] Amusement Park
 - [X] Assembly Line
@@ -6,6 +6,6 @@
 - [X] Lasagna
 - [X] Log Line Parser
 - [X] Two Fer
-- [ ] Savings Account
+- [X] Savings Account
 - [ ] Bird Count
 - [ ] Simple Calulator

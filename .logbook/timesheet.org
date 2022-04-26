@@ -1,5 +1,17 @@
 #+STARTUP:overview
 
+* savings-account
+:LOGBOOK:
+CLOCK: [2022-04-26 Tue 23:27]--[2022-04-27 Wed 00:01] =>  0:34
+:END:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2022-04-27 Wed 00:02]
+| Headline        | Time   |
+|-----------------+--------|
+| *Total time*    | *0:34* |
+|-----------------+--------|
+#+END:
+
 * two-fer
 :LOGBOOK:
 CLOCK: [2022-04-18 Mon 00:56]--[2022-04-18 Mon 01:11] =>  0:15
@@ -10,7 +22,6 @@ CLOCK: [2022-04-18 Mon 00:56]--[2022-04-18 Mon 01:11] =>  0:15
 |--------------+--------|
 | *Total time* | *0:15* |
 |--------------+--------|
-| two-fer      | 0:15   |
 #+END:
 
 * assembly-line
